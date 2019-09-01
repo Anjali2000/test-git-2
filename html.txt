@@ -1,0 +1,11 @@
+﻿<!DOCTYPE html>;
+<html>
+<head>
+<title>My favorite Super hero.</title>
+</head>
+<body>
+<h1>virat kohli</h1>
+<p>virat plays cricket very well.</p>
+</body>
+</html>
+ 
