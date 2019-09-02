@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1{text-align:center;color:black;font-size=350%;border:2px solid powderblue;}
+h2{text-align:center;color:black;font-family:verdana}
+body{background-color:yellow}
+p{color:blue;font-family:courier;}
+div{
+width:100%
+height=400px;
+background-image:url('c:\Users\a\document\netbeansproject\public_html\img');
+background-size:100%100%;
+border:1px solid red;
+}
+</style>
+<title>PORTFOLIO</title>
+</head>
+<body style="background-color:yellow">
+<h1>PORTFOLIO</h1>
+<p style="text-align:center;font-size:300%"><u>HEY WELCOME</u></p>
+<h2>ANJALI SOAM</h2>
+<marquee><p style="font-size:160%>I AM STUDENT OF AKG.I DID MY SCHOOLING FROM FATIMA CONVENT SCHOOL</marquee></p>
+</body>
+</html>
